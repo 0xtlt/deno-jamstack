@@ -1,2 +1,1 @@
-# deno-jampstack
- 
+# deno-jamstack
